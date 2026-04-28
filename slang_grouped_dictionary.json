@@ -148,7 +148,7 @@
   "baru": ["br", "bru", "ru"],
   "bareng": ["brg"],
   "saudara laki-laki": ["bro", "brur"],
-  "bisa": ["bs", "bsa", "bisa-bisa", "bisa bisa", "bisa2"],
+  "bisa": ["bs", "bsa", "bisa-bisa", "bisa bisa", "bisa2", "biaa"],
   "buat": ["bt", "bwt", "wat"],
   "ngomong-ngomong": ["btw"],
   "tidak setia": ["buaya"],
@@ -917,6 +917,7 @@
   "jujur": ["benarjujur"],
   "pembaruan": [
     "update",
+    "pembaharuan",
     "memperbarui",
     "pembaruan",
     "mengupdate",
