@@ -1025,7 +1025,7 @@
     "Syopipei",
     "Syopipey"
   ],
-  "tiba-tiba": ["tiba2"],
+  "tiba-tiba": ["tiba2", "tiba tiba"],
   "aplikasi berhenti": [
     "crash",
     "keluar sendiri",
@@ -1098,5 +1098,28 @@
     "tuop up",
     "topupp",
     "top upan"
+  ],
+  "pemeliharaan": [
+    "downtime",
+    "maintenance",
+    "mt",
+    "server down",
+    "sistem down",
+    "aplikasi sedang diperbaiki",
+    "down",
+    "down time",
+    "daun tim",
+    "daun taym",
+    "dauntim",
+    "maintenis",
+    "maintenan",
+    "menten",
+    "mentenans",
+    "mantenance",
+    "maintanance",
+    "maintance",
+    "mt-an",
+    "sistem sibuk",
+    "server sibuk"
   ]
 }
