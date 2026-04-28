@@ -35,7 +35,17 @@
   "ambilkan": ["ambilin"],
   "sekali": [
     "banget",
+    "bangeet",
+    "bangeeet",
+    "bangeeeet",
+    "bangeeeett",
+    "bangeeeettt",
     "bangett",
+    "bangettt",
+    "bangetttt",
+    "bangettttt",
+    "bangetttttt",
+    "bangettttttt",
     "amat",
     "sangat",
     "bangettt",
@@ -148,7 +158,17 @@
   "baru": ["br", "bru", "ru"],
   "bareng": ["brg"],
   "saudara laki-laki": ["bro", "brur"],
-  "bisa": ["bs", "bsa", "bisa-bisa", "bisa bisa", "bisa2", "biaa"],
+  "bisa": [
+    "bs",
+    "bsa",
+    "bisa-bisa",
+    "bisa bisa",
+    "bisa2",
+    "biaa",
+    "bisaa",
+    "bisaaa",
+    "bisaaaa"
+  ],
   "buat": ["bt", "bwt", "wat"],
   "ngomong-ngomong": ["btw"],
   "tidak setia": ["buaya"],
@@ -248,6 +268,7 @@
     "gk",
     "kagak",
     "nda",
+    "ndk",
     "ngak",
     "tdk",
     "kaga",
@@ -381,7 +402,7 @@
   "kantor": ["ktr"],
   "kurang pergaulan": ["kuper"],
   "imitasi": ["kw"],
-  "seperti": ["kyk", "spt", "kek", "ky", "sprti"],
+  "seperti": ["kayak", "kyk", "spt", "kek", "ky", "sprti"],
   "lah": ["la"],
   "salam": ["lam"],
   "lampiran": ["lamp"],
@@ -694,6 +715,7 @@
   "berapa": ["brp"],
   "besok": ["bsk"],
   "bubarkan": ["bubarin"],
+  "buka": ["bukak"],
   "buka bersama": ["buber"],
   "luar biasa": ["bujubune"],
   "buru sergap": ["buser"],
@@ -927,6 +949,7 @@
     "pembaharuan",
     "ngeupdate",
     "ngupdate",
+    "ngapdet",
     "apdet",
     "updet",
     "updatean",
@@ -944,7 +967,8 @@
     "ipdate",
     "uodatw",
     "uodare",
-    "updatw"
+    "updatw",
+    "upgrade"
   ],
   "unduh": [
     "download",
@@ -1152,5 +1176,6 @@
     "lodingnya",
     "nunggu",
     "mutar"
-  ]
+  ],
+  "gagal": ["failed"]
 }

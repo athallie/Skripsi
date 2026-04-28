@@ -1,53 +1,15 @@
 {
-  "Fungsionalitas": [
-    "pembaruan",
-    "update",
-    "diupdate",
-    "versi",
-    "baru",
-    "login",
-    "masuk",
-    "buka",
-    "otp",
-    "kode",
-    "masukkan"
-  ],
-  "Kinerja": [
-    "lambat",
-    "lag",
-    "loading lama",
-    "berat",
-    "lelet",
-    "habis waktu",
-    "timeout",
-    "request timeout",
-    "makan ram",
-    "panas",
-    "boros"
-  ],
-  "Kompatibilitas": ["ganti"],
-  "Reliabilitas": [
-    "down",
-    "mt",
-    "maintenance",
-    "gangguan",
-    "tidak stabil",
-    "sering error",
-    "kumat",
-    "payah",
-    "kecewa",
-    "transaksi gagal",
-    "saldo berkurang tapi gagal"
-  ],
-  "Keamanan": [
-    "hack",
-    "bobol",
-    "scam",
-    "penipuan",
-    "was-was",
-    "nggak aman",
-    "takut",
-    "data bocor",
-    "phishing"
+  "Otorisasi": ["masuk", "login", "otp", "pin"],
+  "Stabilitas": ["buka", "dibuka", "berhenti", "eror"],
+  "Kompatibilitas": ["ganti", "unduh"],
+  "Pembaruan": ["pembaruan", "update", "upgrade"],
+  "Transaksi": [
+    "saldo",
+    "transaksi",
+    "isi",
+    "pulsa",
+    "berkurang",
+    "tunai",
+    "transfer"
   ]
 }
