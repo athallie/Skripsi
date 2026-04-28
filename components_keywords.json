@@ -1,7 +1,7 @@
 {
   "Otorisasi": ["masuk", "login", "otp", "pin"],
   "Stabilitas": ["buka", "dibuka", "berhenti", "eror"],
-  "Kompatibilitas": ["ganti", "unduh"],
+  "Kompatibilitas": ["ganti", "pindah", "unduh", "ponsel"],
   "Pembaruan": ["pembaruan", "update", "upgrade"],
   "Transaksi": [
     "saldo",
