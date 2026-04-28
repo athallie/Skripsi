@@ -11,5 +11,7 @@
     "berkurang",
     "tunai",
     "transfer"
-  ]
+  ],
+  "Call": ["call"],
+  "Izin": ["izin", "izinkan", "diizinkan"]
 }
