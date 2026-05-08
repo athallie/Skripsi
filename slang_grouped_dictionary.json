@@ -121,6 +121,7 @@
   "asli tetapi palsu": ["aspal"],
   "asal tulis": ["astul"],
   "atau": ["ato"],
+  "ataupun": ["atau pun"],
   "tidak mau tahu": ["au ah"],
   "sayang": ["ay", "ayank", "chuyunk", "syg", "ayang", "beb"],
   "sebelum": ["b4"],
@@ -521,7 +522,7 @@
   "bicara": ["ngmng", "ngomong", "ngmg"],
   "mencari-cari": ["ngubek2"],
   "mengurus": ["ngurus"],
-  "nomor": ["nmr"],
+  "nomor": ["nmr", "nomer"],
   "nonton": ["nntn", "ntn"],
   "nonton bareng": ["nobar"],
   "now playing": ["np"],
@@ -1181,7 +1182,7 @@
   ],
   "gagal": ["failed"],
   "urgen": ["urgent", "asap", "mendesak", "priority"],
-  "layanan pelanggan": ["customer care", "care", "cs"],
+  "layanan pelanggan": ["customer care", "care", "cs", "customer service"],
   "dalam": ["dlm"],
   "jadinya": ["jdiny"],
   "kembalikan": ["kmbliin"],
@@ -1212,5 +1213,6 @@
   "pantas": ["pantes", "pantesan"],
   "rating": ["peringkat"],
   "bantuan": ["bantuannya"],
-  "mohon bantuan": ["tolong"]
+  "mohon bantuan": ["tolong"],
+  "sinkron": ["singkron"]
 }
